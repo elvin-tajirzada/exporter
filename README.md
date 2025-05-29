@@ -1,3 +1,5 @@
+![GitHub go.mod Go version](https://img.shields.io/github/go-mod/go-version/elvin-tajirzada/exporter)
+[![Go Reference](https://pkg.go.dev/badge/github.com/elvin-tajirzada/exporter.svg)](https://pkg.go.dev/github.com/elvin-tajirzada/exporter)
 # exporter
 
 `exporter` is a Go package for exporting tabular data to common file formats such as XLSX (Excel) and CSV. It provides a simple interface to generate export files with customizable headers, entries, and style options.
@@ -18,6 +20,8 @@
 ```bash
 go get github.com/elvin-tajirzada/exporter
 ```
+
+---
 
 ## Usage
 
